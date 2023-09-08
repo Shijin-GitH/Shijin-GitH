@@ -50,7 +50,7 @@ I'm a passionate front-end web developer currently exploring various technologie
   />
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=Shijin-GitH&show_icons=true" />
 </picture>
-&nbsp 
+&nbsp &nbsp
   <a href="https://streak-stats.demolab.com?user=Shijin-GitH&theme=highcontrast&hide_border=true" target="_blank" rel="noreferrer">
     <img width="420" src="https://streak-stats.demolab.com?user=Shijin-GitH&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
