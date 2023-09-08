@@ -43,7 +43,7 @@ I'm a passionate front-end web developer currently exploring various technologie
 <p align="left">
 <a href="www.linkedin.com/in/shijinabraham-l23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://instagram.com/sh_ij_n?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
-![image](https://github.com/Shijin-GitH/Shijin-GitH/assets/115648866/f1fb8bf8-e404-4fd3-9156-55e9110cfb7d)
+<a href="shijinabraham@ieee.org"><img src="https://github.com/Shijin-GitH/Shijin-GitH/assets/115648866/f1fb8bf8-e404-4fd3-9156-55e9110cfb7d" alt="Mail Id" height="30" width="40" /></a>
 
 
 🤝 Open to collaboration and learning opportunities in web development and cybersecurity.
