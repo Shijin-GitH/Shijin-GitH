@@ -37,6 +37,13 @@ I'm a passionate front-end web developer currently exploring various technologie
 - Django
 - Java
 
+### Projects
+
+- IEEE SB CEC IAS Website:- https://ias.cecieee.org/
+- IEEE SB CEC Website:- https://ieee-sb-cec.vercel.app/
+- CEC Website:- https://cec-web.vercel.app/
+- Tesla Clone:- https://shijin-gith.github.io/Tesla-Clone/
+
 <br>
 
 <picture align="left">
