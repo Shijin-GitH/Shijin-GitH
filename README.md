@@ -43,6 +43,7 @@ I'm a passionate front-end web developer currently exploring various technologie
 - IEEE SB CEC Website:- https://ieee-sb-cec.vercel.app/
 - CEC Website:- https://cec-web.vercel.app/
 - Tesla Clone:- https://shijin-gith.github.io/Tesla-Clone/
+- Ferris Wheel:- https://shijin-gith.github.io/Ferris-Wheel/
 
 <br>
 <br>
