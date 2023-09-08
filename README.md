@@ -52,7 +52,7 @@ I'm a passionate front-end web developer currently exploring various technologie
 </picture>
 &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://streak-stats.demolab.com?user=Shijin-GitH&theme=highcontrast&hide_border=true" target="_blank" rel="noreferrer">
-    <img width="425" src="https://streak-stats.demolab.com?user=Shijin-GitH&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    <img width="350" src="https://streak-stats.demolab.com?user=Shijin-GitH&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
 
 ## Let's Connect
