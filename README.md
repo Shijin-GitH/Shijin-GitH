@@ -45,7 +45,6 @@ I'm a passionate front-end web developer currently exploring various technologie
 <p align="left">
 <a href="www.linkedin.com/in/shijinabraham-l23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://instagram.com/sh_ij_n?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
-[![LinkedIn](www.linkedin.com/in/shijinabraham-l23)](www.linkedin.com/in/shijinabraham-l23)
 
 
 Feel free to explore my projects and reach out for discussions or collaboration. Let's learn and grow together!
