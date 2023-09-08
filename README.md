@@ -37,6 +37,19 @@ I'm a passionate front-end web developer currently exploring various technologie
 - Django
 - Java
 
+<picture align="left">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShijinGitH&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShijinGitH&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=ShijinGitH&show_icons=true" />
+</picture>
+
+
 ## Let's Connect
 
 
