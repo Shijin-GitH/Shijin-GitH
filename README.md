@@ -31,6 +31,7 @@ I'm a passionate front-end web developer currently exploring various technologie
 ### Programming Languages: C, Python, Java
 
 ### Currently Learning
+
 - Google Cloud
 - Django
 - Java
