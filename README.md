@@ -16,7 +16,6 @@ I'm a passionate front-end web developer currently exploring various technologie
 
 - 🔒 Starting my cybersecurity journey with the fundamentals.
 - 🛡️ Exploring topics such as ethical hacking, penetration testing, and network security.
-- 🖥️ Practicing hands-on with Capture The Flag (CTF) challenges.
 - 📚 Reading cybersecurity books and following online courses to expand my knowledge.
 
 ## Tools and Technologies
