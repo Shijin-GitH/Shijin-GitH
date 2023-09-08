@@ -27,12 +27,18 @@ I'm a passionate front-end web developer currently exploring various technologie
 - Back-End: Django (learning in progress)
 - Version Control: Git and GitHub
 - Code Editor: Visual Studio Code
+  
+### Programming Languages: C, Python, Java
 
+### Currently Learning
+-Google Cloud
+-Django
+-Java
 
 ## Let's Connect
 
 - 🤝 Open to collaboration and learning opportunities in web development and cybersecurity.
-- 📫 You can reach me via email at shijinabraham@ieee.org(mailto:shijinabraham@ieee.org).
+- 📫 You can reach me via email at shijinabraham@ieee.org
 - 👥 Connect with me on [LinkedIn](www.linkedin.com/in/shijinabraham-l23)
 
 Feel free to explore my projects and reach out for discussions or collaboration. Let's learn and grow together!
