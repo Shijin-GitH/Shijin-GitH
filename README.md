@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img alogn="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78E0B&center=true&vCenter=true&width=500&height=90&lines=Hey👋👋++I'm+Shijin+Abraham+++++++++++;+++Welcome+to++My+GitHub+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img alogn="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78E0B&&width=500&height=90&lines=Hey👋👋++I'm+Shijin+Abraham+++++++++++;+++Welcome+to++My+GitHub+Profile!" alt="Typing SVG" /></a>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Shijin-GitH?style=social)
