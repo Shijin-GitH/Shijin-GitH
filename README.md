@@ -41,9 +41,9 @@ I'm a passionate front-end web developer currently exploring various technologie
 
 
 <p align="left">
-- <a href="www.linkedin.com/in/shijinabraham-l23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-- <a href="https://instagram.com/sh_ij_n?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
-- <a href="shijinabraham@ieee.org"><img src="https://github.com/Shijin-GitH/Shijin-GitH/assets/115648866/e7449110-fea0-42be-8eca-528e05262e21" alt="Mail Id" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shijinabraham-l23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a><br>
+<a href="https://instagram.com/sh_ij_n?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a><br>
+<a href="shijinabraham@ieee.org"><img src="https://github.com/Shijin-GitH/Shijin-GitH/assets/115648866/e7449110-fea0-42be-8eca-528e05262e21" alt="Mail Id" height="30" width="40" /></a><br>
 
 
 🤝 Open to collaboration and learning opportunities in web development and cybersecurity.
