@@ -43,7 +43,7 @@ I'm a passionate front-end web developer currently exploring various technologie
 <p align="left">
 <a href="www.linkedin.com/in/shijinabraham-l23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a><br><br>
 <a href="https://instagram.com/sh_ij_n?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a><br><br>
-<a href="mailto:shijinabraham@ieee.org"<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/></a><br><br>
+<a href="mailto:shijinabraham@ieee.org"><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/></a><br><br>
 
 
 
