@@ -37,7 +37,7 @@ I'm a passionate front-end web developer currently exploring various technologie
 - Django
 - Java
 
-### Projects
+## Projects
 
 - IEEE SB CEC IAS Website:- https://ias.cecieee.org/
 - IEEE SB CEC Website:- https://ieee-sb-cec.vercel.app/
